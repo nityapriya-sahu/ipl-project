@@ -1,0 +1,180 @@
+{
+  "rcb_data":[
+    {
+      "player_name": "Virat Kohli",
+      "photo": "Virat_Kohli.png",
+      "team": "Royal Challengers Bangalore",
+      "price": "15 Crore",
+      "playing_status": "playing",
+      "role": "Batsman"
+    },
+    {
+      "player_name": "Glenn Maxwell",
+      "photo": "Glenn_Maxwell.png",
+      "team": "Royal Challengers Bangalore",
+      "price": "11 Crore",
+      "playing_status": "On-bench",
+      "role": "All-Rounder"
+    },
+    {
+      "player_name": "Mohammad Siraj",
+      "photo": "Mohammed_Siraj.png",
+      "team": "Royal Challengers Bangalore",
+      "price": "7 Crore",
+      "playing_status": "playing",
+      "role": "Bowler"
+    },
+    {
+      "player_name": "Faf Du Plessis (C)",
+      "photo": "Faf_du_Plessis.png",
+      "team": "Royal Challengers Bangalore",
+      "price": "7 crore",
+      "playing_status": "playing",
+      "role": "Batsman"
+    },
+    {
+      "player_name": "Harshal Patel",
+      "photo": "Harshal_Patel.png",
+      "team": "Royal Challengers Bangalore",
+      "price": "10.75 crore",
+      "playing_status": "playing",
+      "role": "Bowler"
+    },
+    {
+      "player_name": "Wanindu Hasaranga",
+      "photo": "Wanindu_Hasaranga.png",
+      "team": "Royal Challengers Bangalore",
+      "price": "10.75 crore",
+      "playing_status": "playing",
+      "role": "Bowler"
+    },
+    {
+      "player_name": "Dinesh Karthik",
+      "photo": "Dinesh_Karthik.png",
+      "team": "Royal Challengers Bangalore",
+      "price": "5.5 crore",
+      "playing_status": "playing",
+      "role": "Batsman/Wicket-keeper"
+    },
+    {
+      "player_name": "Shahbaz Ahemad",
+      "photo": "Shahbaz_Ahamad.png",
+      "team": "Royal Challengers Bangalore",
+      "price": "2.4 crore",
+      "playing_status": "playing",
+      "role": "All-Rounder"
+    },
+    {
+      "player_name": "Anuj Rawat",
+      "photo": "Anuj_Rawat.png",
+      "team": "Royal Challengers Bangalore",
+      "price": "3.4 crore",
+      "playing_status": "On-bench",
+      "role": "Batsman/Wicket-keeper"
+    },
+    {
+      "player_name": "Akash Deep",
+      "photo": "Akash_Deep.png",
+      "team": "Royal Challengers Bangalore",
+      "price": "20 lakh",
+      "playing_status": "On-bench",
+      "role": "Bowler"
+    },
+    {
+      "player_name": "Josh Hazlewood",
+      "photo": "Josh_Hazlewood.png",
+      "team": "Royal Challengers Bangalore",
+      "price": "7.75 crore",
+      "playing_status": "playing",
+      "role": "Bowler"
+    },
+    {
+      "player_name": "Mahipal Lomror",
+      "photo": "Mahipal_Lomror.png",
+      "team": "Royal Challengers Bangalore",
+      "price": "95 lakh",
+      "playing_status": "On-bench",
+      "role": "All-Rounder"
+    },
+    {
+      "player_name": "Finn Allen",
+      "photo": "Finn_Allen.png",
+      "team": "Royal Challengers Bangalore",
+      "price": "80 lakh",
+      "playing_status": "On-bench",
+      "role": "Batsman/Wicket-keeper"
+    },
+    {
+      "player_name": "Sherfane Rutherford",
+      "photo": "Sherfane_Rutherford.png",
+      "team": "Royal Challengers Bangalore",
+      "price": "1 crore",
+      "playing_status": "playing",
+      "role": "All-Rounder"
+    },
+    {
+      "player_name": "Jason Behrendorff",
+      "photo": "Jason_Behrendorff.png",
+      "team": "Royal Challengers Bangalore",
+      "price": "75 lakh",
+      "playing_status": "playing",
+      "role": "Bowler"
+    },
+    {
+      "player_name": "Suyash Prabhudessai",
+      "photo": "Suyash_S_Prabhudessai.png",
+      "team": "Royal Challengers Bangalore",
+      "price": "30 lakh",
+      "playing_status": "On-bench",
+      "role": "Batsman"
+    },
+    {
+      "player_name": "Chama Milind",
+      "photo": "Chama_Milind.png",
+      "team": "Royal Challengers Bangalore",
+      "price": "25 lakh",
+      "playing_status": "playing",
+      "role": "Bowler"
+    },
+    {
+      "player_name": "Aneeshwar Gautam",
+      "photo": "Aneeshwar_Gautam.png",
+      "team": "Royal Challengers Bangalore",
+      "price": "20 lakh",
+      "playing_status": "On-bench",
+      "role": "All-Rounder"
+    },
+    {
+      "player_name": "Karn Sharma",
+      "photo": "Karn_Sharma.png",
+      "team": "Royal Challengers Bangalore",
+      "price": "50 lakh",
+      "playing_status": "On-bench",
+      "role": "Batsman"
+    },
+    {
+      "player_name": "Siddharth Kaul",
+      "photo": "Siddharth_Kaul.png",
+      "team": "Royal Challengers Bangalore",
+      "price": "75 lakh",
+      "playing_status": "playing",
+      "role": "Bowler"
+    },
+    {
+      "player_name": "Luvnith Sisodia",
+      "photo": "Luvnith_Sisodia.png",
+      "team": "Royal Challengers Bangalore",
+      "price": "20 lakh",
+      "playing_status": "On-bench",
+      "role": "Batsman/Wicket-keeper"
+    },
+    {
+      "player_name": "David Willey",
+      "photo": "David_Willey.png",
+      "team": "Royal Challengers Bangalore",
+      "price": "2 crore",
+      "playing_status": "playing",
+      "role": "Bowler"
+    }
+  ]
+}

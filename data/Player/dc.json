@@ -1,0 +1,221 @@
+{
+  "dc_data":[
+
+    {
+      "player_name": "Rishabh Pant (C)",
+      "photo": "Rishabh_Pant.png",
+      "team": "Delhi Capitals",
+      "price": "16 Crore",
+      "playing_status": "playing",
+      "role": "Batsman/Wicket-keeper",
+      "id": "player025"
+    },
+    {
+      "player_name": "Axar Patel",
+      "photo": "Axar_Patel.png",
+      "team": "Delhi Capitals",
+      "price": "9 Crore",
+      "playing_status": "playing",
+      "role": "All-Rounder",
+      "id": "player026"
+    },
+    {
+      "player_name": "Prithvi Shaw",
+      "photo": "Prithvi_Shaw.png",
+      "team": "Delhi Capitals",
+      "price": "7.5 Crore",
+      "playing_status": "playing",
+      "role": "Batsman",
+      "id": "player027"
+    },
+    {
+      "player_name": "Anrich Nortje",
+      "photo": "Anrich_Nortje.png",
+      "team": "Delhi Capitals",
+      "price": "6.5 Crore",
+      "playing_status": "playing",
+      "role": "Bowler",
+      "id": "player028"
+    },
+    {
+      "player_name": "David Warner",
+      "photo": "David_Warner.png",
+      "team": "Delhi Capitals",
+      "price": "6.25 crore",
+      "playing_status": "playing",
+      "role": "Batsman",
+      "id": "player029"
+    },
+    {
+      "player_name": "Mitchell Marsh",
+      "photo": "Mitchell_Marsh.png",
+      "team": "Delhi Capitals",
+      "price": "6.5 crore",
+      "playing_status": "playing",
+      "role": "All-Rounder",
+      "id": "player030"
+    },
+    {
+      "player_name": "Ashwin Hebbar",
+      "photo": "Ashwin_Hebbar.png",
+      "team": "Delhi Capitals",
+      "price": "20 lakh",
+      "playing_status": "On-bench",
+      "role": "Batsman",
+      "id": "player031"
+    },
+    {
+      "player_name": "Sarfaraz Khan",
+      "photo": "Sarfaraz_Khan.png",
+      "team": "Delhi Capitals",
+      "price": "20 lakh",
+      "playing_status": "playing",
+      "role": "Batsman",
+      "id": "player032"
+    },
+    {
+      "player_name": "Kamlesh Nagarkoti",
+      "photo": "Kamlesh_Nagarkoti.png",
+      "team": "Delhi Capitals",
+      "price": "1.1 crore",
+      "playing_status": "On-bench",
+      "role": "Bowler",
+      "id": "player033"
+    },
+    {
+      "player_name": "KS Bharat",
+      "photo": "KS_Bharat.png",
+      "team": "Delhi Capitals",
+      "price": "2 crore",
+      "playing_status": "On-bench",
+      "role": "Batsman/Wicket-keeper",
+      "id": "player034"
+    },
+    {
+      "player_name": "Shardul Thakur",
+      "photo": "Shardul_Thakur.png",
+      "team": "Delhi Capitals",
+      "price": "10.75 crore",
+      "playing_status": "playing",
+      "role": "Bowler",
+      "id": "player035"
+    },
+    {
+      "player_name": "Mustafizur Rahman",
+      "photo": "Mustafizur_Rahman.png",
+      "team": "Delhi Capitals",
+      "price": "2 crore",
+      "playing_status": "playing",
+      "role": "Bowler",
+      "id": "player036"
+    },
+    {
+      "player_name": "Kuldeep Yadav",
+      "photo": "Kuldeep_Yadav.png",
+      "team": "Delhi Capitals",
+      "price": "2 crore",
+      "playing_status": "playing",
+      "role": "Bowler",
+      "id": "player037"
+    },
+    {
+      "player_name": "Mandeep Singh",
+      "photo": "Mandeep_Singh.png",
+      "team": "Delhi Capitals",
+      "price": "1.1 crore",
+      "playing_status": "On-bench",
+      "role": "Batsman",
+      "id": "player038"
+    },
+    {
+      "player_name": "Khaleel Ahmed",
+      "photo": "Khaleel_Ahmed.png",
+      "team": "Delhi Capitals",
+      "price": "5.25 crore",
+      "playing_status": "playing",
+      "role": "Bowler",
+      "id": "player039"
+    },
+    {
+      "player_name": "Chetan Sakariya",
+      "photo": "Chetan_Sakariya.png",
+      "team": "Delhi Capitals",
+      "price": "4.2 crore",
+      "playing_status": "On-bench",
+      "role": "Bowler",
+      "id": "player040"
+    },
+    {
+      "player_name": "Lalit Yadav",
+      "photo": "Lalit_Yadav.png",
+      "team": "Delhi Capitals",
+      "price": "65 lakh",
+      "playing_status": "On-bench",
+      "role": "All-Rounder",
+      "id": "player041"
+    },
+    {
+      "player_name": "Ripal Patel",
+      "photo": "Ripal_Patel.png",
+      "team": "Delhi Capitals",
+      "price": "20 lakh",
+      "playing_status": "playing",
+      "role": "All-Rounder",
+      "id": "player042"
+    },
+    {
+      "player_name": "Yash Dhull",
+      "photo": "Yash_Dhull.png",
+      "team": "Delhi Capitals",
+      "price": "50 lakh",
+      "playing_status": "playing",
+      "role": "Batsman",
+      "id": "player043"
+    },
+    {
+      "player_name": "Rovman Powell",
+      "photo": "Rovman_Powell.png",
+      "team": "Delhi Capitals",
+      "price": "2.8 crore",
+      "playing_status": "playing",
+      "role": "Batsman",
+      "id": "player044"
+    },
+    {
+      "player_name": "Pravin Dubey",
+      "photo": "Pravin_Dubey.png",
+      "team": "Delhi Capitals",
+      "price": "50 lakh",
+      "playing_status": "On-bench",
+      "role": "Bowler",
+      "id": "player045"
+    },
+    {
+      "player_name": "Lungi Ngidi",
+      "photo": "Lungi_Ngidi.png",
+      "team": "Delhi Capitals",
+      "price": "50 lakh",
+      "playing_status": "playing",
+      "role": "Bowler",
+      "id": "player046"
+    },
+    {
+      "player_name": "Tim Seifert",
+      "photo": "Tim_Seifert.png",
+      "team": "Delhi Capitals",
+      "price": "50 lakh",
+      "playing_status": "On-bench",
+      "role": "Batsman",
+      "id": "player047"
+    },
+    {
+      "player_name": "Vicky Ostwal",
+      "photo": "Vicky_Ostwal.png",
+      "team": "Delhi Capitals",
+      "price": "20 lakh",
+      "playing_status": "On-bench",
+      "role": "All-Rounder",
+      "id": "player048"
+    }
+  ]
+}

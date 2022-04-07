@@ -1,0 +1,229 @@
+{
+  "mi_data":[
+    {
+      "player_name": "Rohit Sharma (C)",
+      "photo": "Rohit_Sharma.png",
+      "team": "Mumbai Indians",
+      "price": "16 Crore",
+      "playing_status": "playing",
+      "role": "Batsman",
+      "id": "player118"
+    },
+    {
+      "player_name": "Jasprit Bumrah",
+      "photo": "Jasprit_Bumrah.png",
+      "team": "Mumbai Indians",
+      "price": "12 Crore",
+      "playing_status": "playing",
+      "role": "Bowler",
+      "id": "player119"
+    },
+    {
+      "player_name": "Suryakumar Yadav",
+      "photo": "Suryakumar_Yadav.png",
+      "team": "Mumbai Indians",
+      "price": "8 Crore",
+      "playing_status": "playing",
+      "role": "Batsman",
+      "id": "player120"
+    }, 
+    {
+      "player_name": "Kieron Pollard",
+      "photo": "Kieron_Pollard.png",
+      "team": "Mumbai Indians",
+      "price": "6 Crore",
+      "playing_status": "playing",
+      "role": "All-Rounder",
+      "id": "player121"
+    },
+    {
+      "player_name": "Ishan Kishan",
+      "photo": "Ishan_Kishan.png",
+      "team": "Mumbai Indians",
+      "price": "15.25 crore",
+      "playing_status": "playing",
+      "role": "Batsman",
+      "id": "player122"
+    },
+    {
+      "player_name": "Dewald Brevis",
+      "photo": "Dewald_Brevis.png",
+      "team": "Mumbai Indians",
+      "price": "3 crore",
+      "playing_status": "playing",
+      "role": "Batsman",
+      "id": "player123"
+    },  
+    {
+      "player_name": "Basil Thampi",
+      "photo": "Basil_Thampi.png",
+      "team": "Mumbai Indians",
+      "price": "30 lakh",
+      "playing_status": "On-bench",
+      "role": "Bowler",
+      "id": "player124"
+    },
+    {
+      "player_name": "Murugan Ashwin",
+      "photo": "Murugan_Ashwin.png",
+      "team": "Mumbai Indians",
+      "price": "1.6 crore",
+      "playing_status": "On-bench",
+      "role": "Bowler",
+      "id": "player125"
+    },
+    {
+      "player_name": "Jaydev Unadkat",
+      "photo": "Jaydev_Unadkat.png",
+      "team": "Mumbai Indians",
+      "price": "1.3 crore",
+      "playing_status": "On-bench",
+      "role": "Bowler",
+      "id": "player126"
+    },  
+    {
+      "player_name": "Mayank Markande",
+      "photo": "Mayank_Markande.png",
+      "team": "Mumbai Indians",
+      "price": "65 lakh",
+      "playing_status": "playing",
+      "role": "Bowler",
+      "id": "player127"
+    },
+    {
+      "player_name": "Tilak Varma",
+      "photo": "Patch.png",
+      "team": "Mumbai Indians",
+      "price": "1.7 crore",
+      "playing_status": "On-bench",
+      "role": "Batsman",
+      "id": "player128"
+    },
+    {
+      "player_name": "Sanjay Yadav",
+      "photo": "Sanjay_Yadav.png",
+      "team": "Mumbai Indians",
+      "price": "50 lakh",
+      "playing_status": "On-bench",
+      "role": "All-Rounder",
+      "id": "player129"
+    },  
+    {
+      "player_name": "Jofra Archer",
+      "photo": "Jofra_Archer.png",
+      "team": "Mumbai Indians",
+      "price": "8 crore",
+      "playing_status": "playing",
+      "role": "Bowler",
+      "id": "player130"
+    },
+    {
+      "player_name": "Daniel Sams",
+      "photo": "Daniel_Sams.png",
+      "team": "Mumbai Indians",
+      "price": "2.6 crore",
+      "playing_status": "playing",
+      "role": "All-Rounder",
+      "id": "player131"
+    },
+    {
+      "player_name": "Tymal Mills",
+      "photo": "Tymal_Mills.png",
+      "team": "Mumbai Indians",
+      "price": "1.5 crore",
+      "playing_status": "playing",
+      "role": "Bowler",
+      "id": "player132"
+    },  
+    {
+      "player_name": "Tim David",
+      "photo": "Tim_David.png",
+      "team": "Mumbai Indians",
+      "price": "8.25 crore",
+      "playing_status": "playing",
+      "role": "All-Rounder",
+      "id": "player133"
+    },
+    {
+      "player_name": "Riley Meredith",
+      "photo": "Riley_Meredith.png",
+      "team": "Mumbai Indians",
+      "price": "1 crore",
+      "playing_status": "playing",
+      "role": "Bowler",
+      "id": "player134"
+    },
+    {
+      "player_name": "Mohd Arshad Khan",
+      "photo": "Mohd_Arshad_Khan.png",
+      "team": "Mumbai Indians",
+      "price": "20 lakh",
+      "playing_status": "On-bench",
+      "role": "Batsman",
+      "id": "player135"
+    },  
+    {
+      "player_name": "Anmolpreet Singh",
+      "photo": "Anmolpreet_Singh.png",
+      "team": "Mumbai Indians",
+      "price": "20 lakh",
+      "playing_status": "On-bench",
+      "role": "Batsman",
+      "id": "player136"
+    },
+    {
+      "player_name": "Ramandeep Singh",
+      "photo": "Ramandeep_Singh.png",
+      "team": "Mumbai Indians",
+      "price": "20 lakh",
+      "playing_status": "On-bench",
+      "role": "Batsman",
+      "id": "player137"
+    },
+    {
+      "player_name": "Rahul Buddhi",
+      "photo": "Rahul_Buddhi.png",
+      "team": "Mumbai Indians",
+      "price": "20 lakh",
+      "playing_status": "On-bench",
+      "role": "Batsman",
+      "id": "player138"
+    },  
+    {
+      "player_name": "Hrithik Shokeen",
+      "photo": "Hrithik_Shokeen.png",
+      "team": "Mumbai Indians",
+      "price": "20 lakh",
+      "playing_status": "On-bench",
+      "role": "All-Rounder",
+      "id": "player139"
+    },
+    {
+      "player_name": "Arjun Tendulkar",
+      "photo": "Arjun_Tendulkar.png",
+      "team": "Mumbai Indians",
+      "price": "30 lakh",
+      "playing_status": "On-bench",
+      "role": "Bowler",
+      "id": "player140"
+    },
+    {
+      "player_name": "Aryan Juyal",
+      "photo": "Aryan_Juyal.png",
+      "team": "Mumbai Indians",
+      "price": "20 lakh",
+      "playing_status": "playing",
+      "role": "Batsman/Wicket-keeper",
+      "id": "player141"
+    },   
+    {
+      "player_name": "Fabian Allen",
+      "photo": "Fabia_Allen.png",
+      "team": "Mumbai Indians",
+      "price": "75 lakh",
+      "playing_status": "playing",
+      "role": "All-Rounder",
+      "id": "player142"
+    }
+  ]
+}

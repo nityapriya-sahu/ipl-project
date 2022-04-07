@@ -1,0 +1,188 @@
+{
+  "srh_data":[
+    {
+      "player_name": "Kane Williamson (C)",
+      "photo": "Kane_Williamson.png",
+      "team": "Sun Risers Hyderabad",
+      "price": "14 Crore",
+      "playing_status": "playing",
+      "role": "Batsman"
+    },
+    {
+      "player_name": "Abdul Samad",
+      "photo": "Abdul_Samad.png",
+      "team": "Sun Risers Hyderabad",
+      "price": "4 Crore",
+      "playing_status": "playing",
+      "role": "Batsman"
+    },
+    {
+      "player_name": "Umran Malik",
+      "photo": "Umran_Malik.png",
+      "team": "Sun Risers Hyderabad",
+      "price": "4 Crore",
+      "playing_status": "playing",
+      "role": "Bowler"
+    },
+    {
+      "player_name": "Washington Sundar",
+      "photo": "Washington_Sundar.png",
+      "team": "Sun Risers Hyderabad",
+      "price": "8.75 crore",
+      "playing_status": "playing",
+      "role": "All-Rounder"
+    },
+    {
+      "player_name": "Nicholas Pooran",
+      "photo": "Nicholas_Pooran.png",
+      "team": "Sun Risers Hyderabad",
+      "price": "10.75 crore",
+      "playing_status": "playing",
+      "role": "Batsman/Wicket-keeper"
+    },
+    {
+      "player_name": "Priyam Garg",
+      "photo": "Priyam_Garg.png",
+      "team": "Sun Risers Hyderabad",
+      "price": "20 lakh",
+      "playing_status": "playing",
+      "role": "Batsman"
+    },
+    {
+      "player_name": "Rahul Tripathi",
+      "photo": "Rahul_Tripathi.png",
+      "team": "Sun Risers Hyderabad",
+      "price": "8.5 crore",
+      "playing_status": "playing",
+      "role": "Batsman"
+    },
+    {
+      "player_name": "Abhishek Sharma",
+      "photo": "Abhishek_Sharma.png",
+      "team": "Sun Risers Hyderabad",
+      "price": "6.5 crore",
+      "playing_status": "On-bench",
+      "role": "All-Rounder"
+    },
+    {
+      "player_name": "Kartik Tyagi",
+      "photo": "Kartik_Tyagi.png",
+      "team": "Sun Risers Hyderabad",
+      "price": "4 crore",
+      "playing_status": "On-bench",
+      "role": "Bowler"
+    },
+    {
+      "player_name": "Shreyas Gopal",
+      "photo": "Shreyas_Gopal.png",
+      "team": "Sun Risers Hyderabad",
+      "price": "75 lakh",
+      "playing_status": "playing",
+      "role": "Bowler"
+    },
+    {
+      "player_name": "J Suchith",
+      "photo": "Jagadeesha_Suchith.png",
+      "team": "Sun Risers Hyderabad",
+      "price": "20 lakh",
+      "playing_status": "On-bench",
+      "role": "Bowler"
+    },
+    {
+      "player_name": "T Natarajan",
+      "photo": "T_Natarajan.png",
+      "team": "Sun Risers Hyderabad",
+      "price": "4 crore",
+      "playing_status": "playing",
+      "role": "Bowler"
+    },
+    {
+      "player_name": "Bhuvneshwar Kumar",
+      "photo": "Bhuvneshwar_Kumar.png",
+      "team": "Sun Risers Hyderabad",
+      "price": "4.2 crore",
+      "playing_status": "playing",
+      "role": "Bowler"
+    },
+    {
+      "player_name": "Aiden Markram",
+      "photo": "Aiden_Markram.png",
+      "team": "Sun Risers Hyderabad",
+      "price": "2.6 crore",
+      "playing_status": "playing",
+      "role": "Batsman"
+    },
+    {
+      "player_name": "Marco Jansen",
+      "photo": "Marco_Jansen.png",
+      "team": "Sun Risers Hyderabad",
+      "price": "4.2 crore",
+      "playing_status": "On-bench",
+      "role": "Bowler"
+    },
+    {
+      "player_name": "Romario Shepherd",
+      "photo": "Romario_Shepherd.png",
+      "team": "Sun Risers Hyderabad",
+      "price": "7.75 crore",
+      "playing_status": "playing",
+      "role": "All-Rounder"
+    },
+    {
+      "player_name": "Sean Abbott",
+      "photo": "Sean_Abbott.png",
+      "team": "Sun Risers Hyderabad",
+      "price": "2.4 crore",
+      "playing_status": "On-bench",
+      "role": "Bowler"
+    },
+    {
+      "player_name": "Ravikumar Samarth",
+      "photo": "Ravikumar_Samarth.png",
+      "team": "Sun Risers Hyderabad",
+      "price": "20 lakh",
+      "playing_status": "On-bench",
+      "role": "Batsman"
+    },
+    {
+      "player_name": "Shashank Singh",
+      "photo": "Shashank_Singh.png",
+      "team": "Sun Risers Hyderabad",
+      "price": "20 lakh",
+      "playing_status": "On-bench",
+      "role": "Batsman"
+    },
+    {
+      "player_name": "Saurabh Dubey",
+      "photo": "Saurabh_Dubey.png",
+      "team": "Sun Risers Hyderabad",
+      "price": "20 lakh",
+      "playing_status": "On-bench",
+      "role": "Bowler"
+    },
+    {
+      "player_name": "Vishnu Vinod",
+      "photo": "Vishnu_Vinod.png",
+      "team": "Sun Risers Hyderabad",
+      "price": "50 lakh",
+      "playing_status": "On-bench",
+      "role": "Batsman/Wicket-keeper"
+    },
+    {
+      "player_name": "Glenn Phillips",
+      "photo": "Glenn_Phillips.png",
+      "team": "Sun Risers Hyderabad",
+      "price": "1.5 crore",
+      "playing_status": "playing",
+      "role": "Batsman/Wicket-keeper"
+    },
+    {
+      "player_name": "Fazalhaq Farooqi",
+      "photo": "Fazalhaq_Farooqi.png",
+      "team": "Sun Risers Hyderabad",
+      "price": "50 lakh",
+      "playing_status": "On-bench",
+      "role": "Bowler"
+    }
+  ]
+}

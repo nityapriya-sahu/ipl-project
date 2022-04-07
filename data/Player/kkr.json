@@ -1,0 +1,229 @@
+{
+  "kkr_data":[
+    {
+      "player_name": "Andre Russell",
+      "photo": "Andre_Russell.png",
+      "team": "Kolkata Knight Riders",
+      "price": "12 Crore",
+      "playing_status": "playing",
+      "role": "All-Rounder",
+      "id": "player072"
+    },
+    {
+      "player_name": "Varun Chakravarthy",
+      "photo": "Varun_Chakaravarthy.png",
+      "team": "Kolkata Knight Riders",
+      "price": "8 Crore",
+      "playing_status": "playing",
+      "role": "Bowler",
+      "id": "player073"
+    },
+    {
+      "player_name": "Venkatesh Iyer",
+      "photo": "Venkatesh_Iyer.png",
+      "team": "Kolkata Knight Riders",
+      "price": "8 Crore",
+      "playing_status": "playing",
+      "role": "All-Rounder",
+      "id": "player074"
+    },
+    {
+      "player_name": "Sunil Narine",
+      "photo": "Sunil_Narine.png",
+      "team": "Kolkata Knight Riders",
+      "price": "6 Crore",
+      "playing_status": "playing",
+      "role": "All-Rounder",
+      "id": "player075"
+    },
+    {
+      "player_name": "Pat Cummins",
+      "photo": "Pat_Cummins.png",
+      "team": "Kolkata Knight Riders",
+      "price": "7.25 crore",
+      "playing_status": "On-bench",
+      "role": "All-Rounder",
+      "id": "player076"
+    },
+    {
+      "player_name": "Shreyas Iyer (C)",
+      "photo": "Shreyas_Iyer.png",
+      "team": "Kolkata Knight Riders",
+      "price": "12.25 crore",
+      "playing_status": "playing",
+      "role": "Batsman",
+      "id": "player077"
+    },
+    {
+      "player_name": "Nitish Rana",
+      "photo": "Nitish_Rana.png",
+      "team": "Kolkata Knight Riders",
+      "price": "8 crore",
+      "playing_status": "playing",
+      "role": "Batsman",
+      "id": "player078"
+    },
+    {
+      "player_name": "Shivam Mavi",
+      "photo": "Shivam_Mavi.png",
+      "team": "Kolkata Knight Riders",
+      "price": "7.25 crore",
+      "playing_status": "playing",
+      "role": "Bowler",
+      "id": "player079"
+    },
+    {
+      "player_name": "Sheldon Jackson",
+      "photo": "Sheldon_Jackson.png",
+      "team": "Kolkata Knight Riders",
+      "price": "60 lakh",
+      "playing_status": "On-bench",
+      "role": "Batsman",
+      "id": "player080"
+    },
+    {
+      "player_name": "Ajinkya Rahane",
+      "photo": "Ajinkya_Rahane.png",
+      "team": "Kolkata Knight Riders",
+      "price": "1 crore",
+      "playing_status": "playing",
+      "role": "Batsman",
+      "id": "player081"
+    },
+    {
+      "player_name": "Rinku Singh",
+      "photo": "Rinku_Singh.png",
+      "team": "Kolkata Knight Riders",
+      "price": "55 lakh",
+      "playing_status": "On-bench",
+      "role": "Batsman",
+      "id": "player082"
+    },
+    {
+      "player_name": "Anukul Roy",
+      "photo": "Anukul_Roy.png",
+      "team": "Kolkata Knight Riders",
+      "price": "20 lakh",
+      "playing_status": "On-bench",
+      "role": "All-Rounder",
+      "id": "player083"
+    },
+    {
+      "player_name": "Rasikh Dar",
+      "photo": "Rasikh_Dar.png",
+      "team": "Kolkata Knight Riders",
+      "price": "20 lakh",
+      "playing_status": "On-bench",
+      "role": "Bowler",
+      "id": "player084"
+    },
+    {
+      "player_name": "Baba Indrajith",
+      "photo": "Baba_Indrajith.png",
+      "team": "Kolkata Knight Riders",
+      "price": "20 lakh",
+      "playing_status": "On-bench",
+      "role": "Batsman",
+      "id": "player085"
+    },
+    {
+      "player_name": "Chamika Karunaratne",
+      "photo": "Chamika_Karunaratne.png",
+      "team": "Kolkata Knight Riders",
+      "price": "50 lakh",
+      "playing_status": "playing",
+      "role": "Bowler",
+      "id": "player086"
+    },
+    {
+      "player_name": "Abhijeet Tomar",
+      "photo": "Abhijeet_Tomar.png",
+      "team": "Kolkata Knight Riders",
+      "price": "40 lakh",
+      "playing_status": "On-bench",
+      "role": "Batsman",
+      "id": "player087"
+    },
+    {
+      "player_name": "Pratham Singh",
+      "photo": "Pratham_Singh.png",
+      "team": "Kolkata Knight Riders",
+      "price": "20 lakh",
+      "playing_status": "On-bench",
+      "role": "Batsman",
+      "id": "player088"
+    },
+    {
+      "player_name": "Ashok Sharma",
+      "photo": "Ashok_Sharma.png",
+      "team": "Kolkata Knight Riders",
+      "price": "55 lakh",
+      "playing_status": "playing",
+      "role": "Bowler",
+      "id": "player089"
+    },
+    {
+      "player_name": "Sam Billings",
+      "photo": "Sam_Billings.png",
+      "team": "Kolkata Knight Riders",
+      "price": "2 crore",
+      "playing_status": "playing",
+      "role": "Batsman/Wicket-keeper",
+      "id": "player090"
+    },
+    {
+      "player_name": "Alex Hales",
+      "photo": "Patch.png",
+      "team": "Kolkata Knight Riders",
+      "price": "1.5 crore",
+      "playing_status": "playing",
+      "role": "Batsman",
+      "id": "player091"
+    },
+    {
+      "player_name": "Tim Southee",
+      "photo": "Tim_Southee.png",
+      "team": "Kolkata Knight Riders",
+      "price": "1.5 crore",
+      "playing_status": "playing",
+      "role": "Bowler",
+      "id": "player092"
+    },
+    {
+      "player_name": "Ramesh Kumar",
+      "photo": "Ramesh_Kumar.png",
+      "team": "Kolkata Knight Riders",
+      "price": "20 lakh",
+      "playing_status": "On-bench",
+      "role": "Batsman",
+      "id": "player093"
+    },
+    {
+      "player_name": "Mohammad Nabi",
+      "photo": "Mohammad_Nabi.png",
+      "team": "Kolkata Knight Riders",
+      "price": "1 crore",
+      "playing_status": "On-bench",
+      "role": "All-Rounder",
+      "id": "player094"
+    },
+    {
+      "player_name": "Umesh Yadav",
+      "photo": "Umesh_Yadav.png",
+      "team": "Kolkata Knight Riders",
+      "price": "2 crore",
+      "playing_status": "playing",
+      "role": "Bowler",
+      "id": "player095"
+    },
+    {
+      "player_name": "Aman Khan",
+      "photo": "Aman_Khan.png",
+      "team": "Kolkata Knight Riders",
+      "price": "20 lakh",
+      "playing_status": "On-bench",
+      "role": "Batsman",
+      "id": "player096"
+    }
+  ]
+}

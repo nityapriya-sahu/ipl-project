@@ -1,0 +1,220 @@
+{
+  "data": [
+    {
+      "player_name": "MS Dhoni",
+      "photo": "MS_Dhoni.png",
+      "team": "Chennai Super Kings",
+      "price": "12 Crore",
+      "playing_status": "Playing",
+      "role": "Batsman/Wicket-keeper",
+      "id": "player001"
+    },
+    {
+      "player_name": "Ravindra Jadeja (C)",
+      "photo": "Ravindra_Jadeja.png",
+      "team": "Chennai Super Kings",
+      "price": "16 Crore",
+      "playing_status": "Playing",
+      "role": "All-Rounder",
+      "id": "player002"
+    },
+    {
+      "player_name": "Moeen Ali",
+      "photo": "Moeen_Ali.png",
+      "team": "Chennai Super Kings",
+      "price": "8 Crore",
+      "playing_status": "Playing",
+      "role": "All-Rounder",
+      "id": "player003"
+    },
+    {
+      "player_name": "Ruturaj Gaikwad",
+      "photo": "Ruturaj_Gaikwad.png",
+      "team": "Chennai Super Kings",
+      "price": "6 Crore",
+      "playing_status": "Playing",
+      "role": "Batsman",
+      "id": "player004"
+    },
+    {
+      "player_name": "Dwayne Bravo",
+      "photo": "Dwayne_Bravo.png",
+      "team": "Chennai Super Kings",
+      "price": "4.4 crore",
+      "playing_status": "Playing",
+      "role": "Bowler",
+      "id": "player005"
+    },
+    {
+      "player_name": "Ambati Rayudu",
+      "photo": "Ambati_Rayudu.png",
+      "team": "Chennai Super Kings",
+      "price": "6.75 crore",
+      "playing_status": "Playing",
+      "role": "Batsman/Wicket-keeper",
+      "id": "player006"
+    },
+    {
+      "player_name": "KM Asif",
+      "photo": "KM_Asif.png",
+      "team": "Chennai Super Kings",
+      "price": "20 lakh",
+      "playing_status": "On-bench",
+      "role": "Bowler",
+      "id": "player007"
+    },
+    {
+      "player_name": "Tushar Deshpande",
+      "photo": "Tushar_Deshpande.png",
+      "team": "Chennai Super Kings",
+      "price": "20 lakh",
+      "playing_status": "Playing",
+      "role": "Bowler",
+      "id": "player008"
+    },
+    {
+      "player_name": "Deepak Chahar",
+      "photo": "Deepak_Chahar.png",
+      "team": "Chennai Super Kings",
+      "price": "14 crore",
+      "playing_status": "On-bench",
+      "role": "Bowler",
+      "id": "player009"
+    },
+    {
+      "player_name": "Shivam Dube",
+      "photo": "Shivam_Dube.png",
+      "team": "Chennai Super Kings",
+      "price": "4 crore",
+      "playing_status": "playing",
+      "role": "All-Rounder",
+      "id": "player010"
+    },
+    {
+      "player_name": "Maheesh Theekshana",
+      "photo": "Maheesh_Theekshana.png",
+      "team": "Chennai Super Kings",
+      "price": "70 lakh",
+      "playing_status": "On-bench",
+      "role": "Bowler",
+      "id": "player011"
+    },
+    {
+      "player_name": "R Hangarkekar",
+      "photo": "Rajvardhan_Hangargekar.png",
+      "team": "Chennai Super Kings",
+      "price": "1.5 crore",
+      "playing_status": "On-bench",
+      "role": "Bowler",
+      "id": "player012"
+    },
+    {
+      "player_name": "Simarjeet Singh",
+      "photo": "Simarjeet_Singh.png",
+      "team": "Chennai Super Kings",
+      "price": "20 lakh",
+      "playing_status": "On-bench",
+      "role": "Bowler",
+      "id": "player013"
+    },
+    {
+      "player_name": "Devon Conway",
+      "photo": "Devon_Conway.png",
+      "team": "Chennai Super Kings",
+      "price": "1 crore",
+      "playing_status": "playing",
+      "role": "Batsman",
+      "id": "player014"
+    },
+    {
+      "player_name": "Dwaine Pretorius",
+      "photo": "Dwaine_Pretorius.png",
+      "team": "Chennai Super Kings",
+      "price": "50 lakh",
+      "playing_status": "On-bench",
+      "role": "All-Rounder",
+      "id": "player015"
+    },
+    {
+      "player_name": "Mitchell Santner",
+      "photo": "Mitchell_Santner.png",
+      "team": "Chennai Super Kings",
+      "price": "1.9 crore",
+      "playing_status": "playing",
+      "role": "Bowler",
+      "id": "player016"
+    },
+    {
+      "player_name": "Adam Milne",
+      "photo": "Adam_Milne.png",
+      "team": "Chennai Super Kings",
+      "price": "1.9 crore",
+      "playing_status": "playing",
+      "role": "Bowler",
+      "id": "player017"
+    },
+    {
+      "player_name": "Subhranshu Senapati",
+      "photo": "Subhranshu_Senapati.png",
+      "team": "Chennai Super Kings",
+      "price": "20 lakh",
+      "playing_status": "On-bench",
+      "role": "Batsman",
+      "id": "player018"
+    },
+    {
+      "player_name": "Mukesh Choudhary",
+      "photo": "Mukesh_Choudhary.png",
+      "team": "Chennai Super Kings",
+      "price": "20 lakh",
+      "playing_status": "playing",
+      "role": "Bowler",
+      "id": "player019"
+    },
+    {
+      "player_name": "Prashant Solanki",
+      "photo": "Prashant_Solanki.png",
+      "team": "Chennai Super Kings",
+      "price": "1.2 crore",
+      "playing_status": "playing",
+      "role": "Bowler",
+      "id": "player020"
+    },
+    {
+      "player_name": "C Hari Nishaanth",
+      "photo": "C_Hari_Nishaanth.png",
+      "team": "Chennai Super Kings",
+      "price": "20 lakh",
+      "playing_status": "playing",
+      "role": "Batsman",
+      "id": "player021"
+    },
+    {
+      "player_name": "N Jagadeesan",
+      "photo": "Narayan_Jagadeesan.png",
+      "team": "Chennai Super Kings",
+      "price": "20 lakh",
+      "playing_status": "On-bench",
+      "role": "Batsman/Wicket-keeper",
+      "id": "player022"
+    },
+    {
+      "player_name": "Chris Jordan",
+      "photo": "Chris_Jordan.png",
+      "team": "Chennai Super Kings",
+      "price": "3.6 crore",
+      "playing_status": "playing",
+      "role": "Bowler",
+      "id": "player023"
+    },
+    {
+      "player_name": "K Bhagath Varma",
+      "photo": "K_Bhagath_Varma.png",
+      "team": "Chennai Super Kings",
+      "price": "20 lakh",
+      "playing_status": "On-bench",
+      "role": "All-Rounder",
+      "id": "player024"
+    }
+  ]
+}

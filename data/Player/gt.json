@@ -1,0 +1,212 @@
+{
+  "gt_data":[
+    {
+      "player_name": "Hardik Pandya (C)",
+      "photo": "Hardik_Pandya.png",
+      "team": "Gujarat Titans",
+      "price": "15 Crore",
+      "playing_status": "playing",
+      "role": "All-Rounder",
+      "id": "player049"
+    },
+    {
+      "player_name": "Rashid Khan",
+      "photo": "Rashid_Khan.png",
+      "team": "Gujarat Titans",
+      "price": "15 Crore",
+      "playing_status": "playing",
+      "role": "Bowler",
+      "id": "player050"
+    },
+    {
+      "player_name": "Shubman Gill",
+      "photo": "Shubman_Gill.png",
+      "team": "Gujarat Titans",
+      "price": "7 Crore",
+      "playing_status": "playing",
+      "role": "Batsman",
+      "id": "player051"
+      
+    },
+    {
+      "player_name": "Mohammad Shami",
+      "photo": "Mohammad_Shami.png",
+      "team": "Gujarat Titans",
+      "price": "6.25 crore",
+      "playing_status": "playing",
+      "role": "Bowler",
+      "id": "player052"
+    },
+    {
+      "player_name": "Jason Roy",
+      "photo": "Patch.png",
+      "team": "Gujarat Titans",
+      "price": "2 crore",
+      "playing_status": "playing",
+      "role": "Batsman",
+      "id": "player053"
+    },
+    {
+      "player_name": "Abhinav Sadarangani",
+      "photo": "Abhinav_Sadarangani.png",
+      "team": "Gujarat Titans",
+      "price": "2.6 crore",
+      "playing_status": "playing",
+      "role": "Batsman",
+      "id": "player054"
+    },
+    {
+      "player_name": "Rahul Tewatia",
+      "photo": "Rahul_Tewatia.png",
+      "team": "Gujarat Titans",
+      "price": "9 crore",
+      "playing_status": "playing",
+      "role": "All-Rounder",
+      "id": "player055"
+    },
+    {
+      "player_name": "Noor Ahmad",
+      "photo": "Noor_Ahmad.png",
+      "team": "Gujarat Titans",
+      "price": "30 lakh",
+      "playing_status": "On-bench",
+      "role": "Bowler",
+      "id": "player056"
+    },
+    {
+      "player_name": "R Sai Kishore",
+      "photo": "Sai_Kishore.png",
+      "team": "Gujarat Titans",
+      "price": "3 crore",
+      "playing_status": "On-bench",
+      "role": "Bowler",
+      "id": "player057"
+    },
+    {
+      "player_name": "Lockie Ferguson",
+      "photo": "Lockie_Ferguson.png",
+      "team": "Gujarat Titans",
+      "price": "10 crore",
+      "playing_status": "playing",
+      "role": "Bowler",
+      "id": "player058"
+    },
+    {
+      "player_name": "Dominic Drakes",
+      "photo": "Dominic_Drakes.png",
+      "team": "Gujarat Titans",
+      "price": "1.1 crore",
+      "playing_status": "On-bench",
+      "role": "All-Rounder",
+      "id": "player059"
+    },
+    {
+      "player_name": "Jayant Yadav",
+      "photo": "Jayant_Yadav.png",
+      "team": "Gujarat Titans",
+      "price": "1.7 crore",
+      "playing_status": "On-bench",
+      "role": "All-Rounder",
+      "id": "player060"
+    },
+    {
+      "player_name": "Vijay Shankar",
+      "photo": "Vijay_Shankar.png",
+      "team": "Gujarat Titans",
+      "price": "1.4 crore",
+      "playing_status": "playing",
+      "role": "All-Rounder",
+      "id": "player061"
+    },
+    {
+      "player_name": "Darshan Nalkande",
+      "photo": "Darshan_Nalkande.png",
+      "team": "Gujarat Titans",
+      "price": "20 lakh",
+      "playing_status": "On-bench",
+      "role": "All-Rounder",
+      "id": "player062"
+    },
+    {
+      "player_name": "Yash Dayal",
+      "photo": "Yash_Dayal.png",
+      "team": "Gujarat Titans",
+      "price": "3.2 crore",
+      "playing_status": "On-bench",
+      "role": "Bowler",
+      "id": "player063"
+    },
+    {
+      "player_name": "Alzarri Joseph",
+      "photo": "Alzarri_Joseph.png",
+      "team": "Gujarat Titans",
+      "price": "2.4 crore",
+      "playing_status": "playing",
+      "role": "Bowler",
+      "id": "player064"
+    },
+    {
+      "player_name": "Pradeep Sangwan",
+      "photo": "Pradeep_Sangwan.png",
+      "team": "Gujarat Titans",
+      "price": "20 lakh",
+      "playing_status": "On-bench",
+      "role": "Bowler",
+      "id": "player065"
+    },
+    {
+      "player_name": "David Miller",
+      "photo": "David_Miller.png",
+      "team": "Gujarat Titans",
+      "price": "3 crore",
+      "playing_status": "playing",
+      "role": "Batsman",
+      "id": "player066"
+    },
+    {
+      "player_name": "Wriddhiman Saha",
+      "photo": "Wriddhiman_Saha.png",
+      "team": "Gujarat Titans",
+      "price": "1.9 crore",
+      "playing_status": "On-bench",
+      "role": "Batsman/Wicket-keeper",
+      "id": "player067"
+    },
+    {
+      "player_name": "Matthew Wade",
+      "photo": "Matthew_Wade.png",
+      "team": "Gujarat Titans",
+      "price": "2.4 crore",
+      "playing_status": "playing",
+      "role": "Batsman/Wicket-keeper",
+      "id": "player068"
+    },
+    {
+      "player_name": "Gurkeerat Singh",
+      "photo": "Gurkeerat_Mann_Singh.png",
+      "team": "Gujarat Titans",
+      "price": "50 lakh",
+      "playing_status": "On-bench",
+      "role": "All-Rounder",
+      "id": "player069"
+    },
+    {
+      "player_name": "Varun Aaron",
+      "photo": "Varun_Aaron.png",
+      "team": "Gujarat Titans",
+      "price": "50 lakh",
+      "playing_status": "playing",
+      "role": "Bowler",
+      "id": "player070"
+    },
+    {
+      "player_name": "B Sai Sudharshan",
+      "photo": "BSai_Sudharsan.png",
+      "team": "Gujarat Titans",
+      "price": "20 lakh",
+      "playing_status": "playing",
+      "role": "Batsman",
+      "id": "player071"
+    }
+  ]
+}

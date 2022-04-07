@@ -1,0 +1,193 @@
+{
+  "lsg_data":[
+  {
+    "player_name": "KL Rahul (C)",
+    "photo": "KL_Rahul.png",
+    "team": "Lucknow Super Giants",
+    "price": "15 Crore",
+    "playing_status": "playing",
+    "role": "Batsman",
+    "id": "player097"
+  },
+  {
+    "player_name": "Marcus Stoinis",
+    "photo": "Marcus_Stoinis.png",
+    "team": "Lucknow Super Giants",
+    "price": "11 Crore",
+    "playing_status": "playing",
+    "role": "All-Rounder",
+    "id": "player098"
+  },
+  {
+    "player_name": "Ravi Bishnoi",
+    "photo": "Ravi_Bishnoi.png",
+    "team": "Lucknow Super Giants",
+    "price": "4 Crore",
+    "playing_status": "playing",
+    "role": "Bowler",
+    "id": "player099"
+  },
+  {
+    "player_name": "Quinton De Kock",
+    "photo": "Quinton_de_Kock.png",
+    "team": "Lucknow Super Giants",
+    "price": "6.75 crore",
+    "playing_status": "playing",
+    "role": "Batsman/Wicket-keeper",
+    "id": "player100"
+  },
+  {
+    "player_name": "Manish Pandey",
+    "photo": "Manish_Pandey.png",
+    "team": "Lucknow Super Giants",
+    "price": "4.6 crore",
+    "playing_status": "playing",
+    "role": "Batsman",
+    "id": "player101"
+  },
+  {
+    "player_name": "Jason Holder",
+    "photo": "Jason_Holder.png",
+    "team": "Lucknow Super Giants",
+    "price": "8.75 crore",
+    "playing_status": "playing",
+    "role": "All-Rounder",
+    "id": "player102"
+  },
+  {
+    "player_name": "Deepak Hooda",
+    "photo": "Deepak_Hooda.png",
+    "team": "Lucknow Super Giants",
+    "price": "5.75 crore",
+    "playing_status": "playing",
+    "role": "All-Rounder",
+    "id": "player103"
+  },
+  {
+    "player_name": "Krunal Pandya",
+    "photo": "Krunal_Pandya.png",
+    "team": "Lucknow Super Giants",
+    "price": "8.25 crore",
+    "playing_status": "playing",
+    "role": "All-Rounder",
+    "id": "player104"
+  },
+  {
+    "player_name": "Avesh Khan",
+    "photo": "Avesh_Khan.png",
+    "team": "Lucknow Super Giants",
+    "price": "10 crore",
+    "playing_status": "playing",
+    "role": "Bowler",
+    "id": "player105"
+  },
+  {
+    "player_name": "Ankit Rajpoot",
+    "photo": "Ankit_Rajpoot.png",
+    "team": "Lucknow Super Giants",
+    "price": "50 lakh",
+    "playing_status": "On-bench",
+    "role": "Bowler",
+    "id": "player106"
+  },
+  {
+    "player_name": "Mark Wood",
+    "photo": "Patch.png",
+    "team": "Lucknow Super Giants",
+    "price": "7.5 crore",
+    "playing_status": "playing",
+    "role": "Bowler",
+    "id": "player107"
+  },
+  {
+    "player_name": "K Gowtham",
+    "photo": "Krishnappa_Gowtham.png",
+    "team": "Lucknow Super Giants",
+    "price": "90 lakh",
+    "playing_status": "On-bench",
+    "role": "All-Rounder",
+    "id": "player108"
+  },
+  {
+    "player_name": "Dushmanta Chameera",
+    "photo": "Dushmantha_Chameera.png",
+    "team": "Lucknow Super Giants",
+    "price": "2 crore",
+    "playing_status": "playing",
+    "role": "Bowler",
+    "id": "player109"
+  },
+  {
+    "player_name": "Shahbaz Nadeem",
+    "photo": "Shahbaz_Nadeem.png",
+    "team": "Lucknow Super Giants",
+    "price": "50 lakh",
+    "playing_status": "On-bench",
+    "role": "Bowler",
+    "id": "player110"
+  },
+  {
+    "player_name": "Manan Vohra",
+    "photo": "Manan_Vohra.png",
+    "team": "Lucknow Super Giants",
+    "price": "20 lakh",
+    "playing_status": "On-bench",
+    "role": "Batsman",
+    "id": "player111"
+  },
+  {
+    "player_name": "Mohsin Khan",
+    "photo": "Mohsin_Khan.png",
+    "team": "Lucknow Super Giants",
+    "price": "20 lakh",
+    "playing_status": "playing",
+    "role": "Bowler",
+    "id": "player112"
+  },
+  {
+    "player_name": "Ayush Badoni",
+    "photo": "Ayush_Badoni.png",
+    "team": "Lucknow Super Giants",
+    "price": "20 lakh",
+    "playing_status": "playing",
+    "role": "All-Rounder",
+    "id": "player113"
+  },
+  {
+    "player_name": "Kyle Mayers",
+    "photo": "Kyle_Mayers.png",
+    "team": "Lucknow Super Giants",
+    "price": "50 lakh",
+    "playing_status": "playing",
+    "role": "All-Rounder",
+    "id": "player114"
+  },
+  {
+    "player_name": "Karan Sharma",
+    "photo": "Karan_Sharma.png",
+    "team": "Lucknow Super Giants",
+    "price": "20 lakh",
+    "playing_status": "On-bench",
+    "role": "All-Rounder",
+    "id": "player115"
+  },
+  {
+    "player_name": "Evin Lewis",
+    "photo": "Evin_Lewis.png",
+    "team": "Lucknow Super Giants",
+    "price": "2 crore",
+    "playing_status": "playing",
+    "role": "Batsman",
+    "id": "player116"
+  },
+  {
+    "player_name": "Mayank Yadav",
+    "photo": "Mayank_Yadav.png",
+    "team": "Lucknow Super Giants",
+    "price": "20 lakh",
+    "playing_status": "On-bench",
+    "role": "Bowler",
+    "id": "player117"
+  }  
+]
+}

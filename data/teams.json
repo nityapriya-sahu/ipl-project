@@ -1,0 +1,95 @@
+{
+  "teams": [
+     {
+        "name": "Chennai Super Kings",
+        "image": "CSK_Logo.png",
+        "player_count": "24",
+        "top_batsman": "MS Dhoni",
+        "top_bowler": "Deepak Chahar",
+        "trophy": "04",
+        "team_link":"csk.html",
+        "id":"csk"
+     },
+     {
+        "name": "Delhi Capitals",
+        "image": "DC_Logo.png",
+        "player_count": "24",
+        "top_batsman": "David Warner",
+        "top_bowler": "Shardul Thakur",
+        "trophy": "00",
+        "team_link":"dc.html"
+     },
+     {
+        "name": "Gujarat Titans",
+        "image": "GT_Logo.png",
+        "player_count": "23",
+        "top_batsman": "Jason Roy",
+        "top_bowler": "Rashid Khan",
+        "trophy": "00",
+        "team_link":"gt.html"
+     },
+     {
+        "name": "Kolkata Knight Riders",
+        "image": "KKR_Logo.png",
+        "player_count": "25",
+        "top_batsman": "Shreyas Iyer",
+        "top_bowler": "Umesh Yadav",
+        "trophy": "02",
+        "team_link":"kkr.html"
+     },
+     {
+        "name": "Lucknow Super Giants",
+        "image": "LSG_Logo.png",
+        "player_count": "21",
+        "top_batsman": "KL Rahul",
+        "top_bowler": "Avesh Khan",
+        "trophy": "00",
+        "team_link":"lsg.html"
+     },
+     {
+        "name": "Mumbai Indians",
+        "image": "MI_Logo.png",
+        "player_count": "25",
+        "top_batsman": "Rohit Sharma",
+        "top_bowler": "Jasprit Bumrah",
+        "trophy": "05",
+        "team_link":"mi.html"
+     },
+     {
+        "name": "Punjab Kings",
+        "image": "PBKS_Logo.png",
+        "player_count": "25",
+        "top_batsman": "Shikhar Dhawan",
+        "top_bowler": "Kagiso Rabada",
+        "trophy": "00",
+        "team_link":"pbks.html"
+     },
+     {
+        "name": "Rajasthan Royals",
+        "image": "RR_Logo.png",
+        "player_count": "24",
+        "top_batsman": "Jos Buttler",
+        "top_bowler": "Trent Boult",
+        "trophy": "01",
+        "team_link":"rr.html"
+     },
+     {
+        "name": "Royal Challengers Bangalore",
+        "image": "RCB_Logo.png",
+        "player_count": "22",
+        "top_batsman": "Virat Kohli",
+        "top_bowler": "Harshal Patel",
+        "trophy": "00",
+        "team_link":"rcb.html"
+     },
+     {
+        "name": "Sun Risers Hyderabad",
+        "image": "SRH_Logo.png",
+        "player_count": "23",
+        "top_batsman": "Kane Williamson",
+        "top_bowler": "Bhuvneshwar Kumar",
+        "trophy": "01",
+        "team_link":"srh.html"
+     }
+  ]
+}

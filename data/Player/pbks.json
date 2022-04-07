@@ -1,0 +1,204 @@
+{
+  "pbks_data": [
+    {
+      "player_name": "Mayank Agarwal (C)",
+      "photo": "Mayank_Agarwal.png",
+      "team": "Punjab Kings",
+      "price": "12 Crore",
+      "playing_status": "playing",
+      "role": "Batsman"
+    },
+    {
+      "player_name": "Arshdeep Singh",
+      "photo": "Arshdeep_Singh.png",
+      "team": "Punjab Kings",
+      "price": "4 Crore",
+      "playing_status": "playing",
+      "role": "Bowler"
+    },
+    {
+      "player_name": "Shikhar Dhawan",
+      "photo": "Shikhar_Dhawan.png",
+      "team": "Punjab Kings",
+      "price": "8.25 crore",
+      "playing_status": "playing",
+      "role": "Batsman"
+    },
+    {
+      "player_name": "Kagiso Rabada",
+      "photo": "Kagiso_Rabada.png",
+      "team": "Punjab Kings",
+      "price": "9.25 crore",
+      "playing_status": "playing",
+      "role": "Bowler"
+    },
+    {
+      "player_name": "Jonny Bairstow",
+      "photo": "Jonny_Bairstow.png",
+      "team": "Punjab Kings",
+      "price": "6.75 crore",
+      "playing_status": "playing",
+      "role": "Batsman/Wicket-keeper"
+    },
+    {
+      "player_name": "Shahrukh Khan",
+      "photo": "Shahrukh_Khan.png",
+      "team": "Punjab Kings",
+      "price": "9 crore",
+      "playing_status": "playing",
+      "role": "All-Rounder"
+    },
+    {
+      "player_name": "Harpreet Brar",
+      "photo": "Harpreet_Brar.png",
+      "team": "Punjab Kings",
+      "price": "3.8 crore",
+      "playing_status": "playing",
+      "role": "Batsman"
+    },
+    {
+      "player_name": "Prabhsimran Singh",
+      "photo": "Prabhsimran_Singh.png",
+      "team": "Punjab Kings",
+      "price": "60 lakh",
+      "playing_status": "On-bench",
+      "role": "Batsman/Wicket-keeper"
+    },
+    {
+      "player_name": "Jitesh Sharma",
+      "photo": "Jitesh_Sharma.png",
+      "team": "Punjab Kings",
+      "price": "20 lakh",
+      "playing_status": "On-bench",
+      "role": "Batsman/Wicket-keeper"
+    },
+    {
+      "player_name": "Ishan Porel",
+      "photo": "Ishan_Porel.png",
+      "team": "Punjab Kings",
+      "price": "25 lakh",
+      "playing_status": "On-bench",
+      "role": "Bowler"
+    },
+    {
+      "player_name": "Rahul Chahar",
+      "photo": "Rahul_Chahar.png",
+      "team": "Punjab Kings",
+      "price": "5.25 crore",
+      "playing_status": "playing",
+      "role": "Bowler"
+    },
+    {
+      "player_name": "Liam Livingstone",
+      "photo": "Liam_Livingstone.png",
+      "team": "Punjab Kings",
+      "price": "11.5 crore",
+      "playing_status": "playing",
+      "role": "All-Rounder"
+    },
+    {
+      "player_name": "Odean Smith",
+      "photo": "Odean_Smith.png",
+      "team": "Punjab Kings",
+      "price": "6 crore",
+      "playing_status": "playing",
+      "role": "Batsman"
+    },
+    {
+      "player_name": "Sandeep Sharma",
+      "photo": "Sandeep_Sharma.png",
+      "team": "Punjab Kings",
+      "price": "50 lakh",
+      "playing_status": "playing",
+      "role": "Bowler"
+    },
+    {
+      "player_name": "Raj Bawa",
+      "photo": "Raj_Angad_Bawa.png",
+      "team": "Punjab Kings",
+      "price": "2 crore",
+      "playing_status": "playing",
+      "role": "Batsman"
+    },
+    {
+      "player_name": "Rishi Dhawan",
+      "photo": "Rishi_Dhawan.png",
+      "team": "Punjab Kings",
+      "price": "55 lakh",
+      "playing_status": "On-bench",
+      "role": "All-Rounder"
+    },
+    {
+      "player_name": "Prerak Mankad",
+      "photo": "Prerak_Mankad.png",
+      "team": "Punjab Kings",
+      "price": "20 lakh",
+      "playing_status": "On-bench",
+      "role": "Batsman"
+    },
+    {
+      "player_name": "Vaibhav Arora",
+      "photo": "Vaibhav_Arora.png",
+      "team": "Punjab Kings",
+      "price": "2 crore",
+      "playing_status": "playing",
+      "role": "Bowler"
+    },
+    {
+      "player_name": "Writtick Chatterjee",
+      "photo": "Writtick_Chatterjee.png",
+      "team": "Punjab Kings",
+      "price": "20 lakh",
+      "playing_status": "On-bench",
+      "role": "Batsman"
+    },
+    {
+      "player_name": "Baltej Dhanda",
+      "photo": "Baltej_Dhanda.png",
+      "team": "Punjab Kings",
+      "price": "20 lakh",
+      "playing_status": "On-bench",
+      "role": "All-Rounder"
+    },
+    {
+      "player_name": "Ansh Patel",
+      "photo": "Ansh_Patel.png",
+      "team": "Punjab Kings",
+      "price": "20 lakh",
+      "playing_status": "On-bench",
+      "role": "All-Rounder"
+    },
+    {
+      "player_name": "Nathan Ellis",
+      "photo": "Nathan_Ellis.png",
+      "team": "Punjab Kings",
+      "price": "75 lakh",
+      "playing_status": "On-bench",
+      "role": "Bowler"
+    },
+    {
+      "player_name": "Atharva Taide",
+      "photo": "Atharva_Taide.png",
+      "team": "Punjab Kings",
+      "price": "20 lakh",
+      "playing_status": "On-bench",
+      "role": "All-Rounder"
+    },
+    {
+      "player_name": "Bhanuka Rajapaksa",
+      "photo": "Bhanuka_Rajapaksa.png",
+      "team": "Punjab Kings",
+      "price": "50 lakh",
+      "playing_status": "playing",
+      "role": "Batsman"
+    },
+    {
+      "player_name": "Benny Howell",
+      "photo": "Benny_Howell.png",
+      "team": "Punjab Kings",
+      "price": "40 lakh",
+      "playing_status": "On-bench",
+      "role": "All-Rounder"
+    }
+  ]
+}

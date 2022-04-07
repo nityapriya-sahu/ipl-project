@@ -1,0 +1,196 @@
+{
+  "rr_data":[
+    {
+      "player_name": "Sanju Samson (C)",
+      "photo": "Sanju_Samson.png",
+      "team": "Rajasthan Royals",
+      "price": "14 Crore",
+      "playing_status": "playing",
+      "role": "Batsman/Wicket-keeper"
+    },
+    {
+      "player_name": "Jos Buttler",
+      "photo": "Jos_Buttler.png",
+      "team": "Rajasthan Royals",
+      "price": "10 Crore",
+      "playing_status": "playing",
+      "role": "Batsman"
+    },
+    {
+      "player_name": "Yashasvi Jaiswal",
+      "photo": "Yashasvi_Jaiswal.png",
+      "team": "Rajasthan Royals",
+      "price": "4 Crore",
+      "playing_status": "playing",
+      "role": "Batsman"
+    },
+    {
+      "player_name": "R. Ashwin",
+      "photo": "Ravichandran_Ashwin.png",
+      "team": "Rajasthan Royals",
+      "price": "5 crore",
+      "playing_status": "playing",
+      "role": "Bowler"
+    },
+    {
+      "player_name": "Trent Boult",
+      "photo": "Trent_Boult.png",
+      "team": "Rajasthan Royals",
+      "price": "8 crore",
+      "playing_status": "playing",
+      "role": "Bowler"
+    },
+    {
+      "player_name": "Shimron Hetmyer",
+      "photo": "Shimron_Hetmyer.png",
+      "team": "Rajasthan Royals",
+      "price": "8.5 crore",
+      "playing_status": "playing",
+      "role": "Batsman"
+    },
+    {
+      "player_name": "Devdutt Padikkal",
+      "photo": "Devdutt_Padikkal.png",
+      "team": "Rajasthan Royals",
+      "price": "7.75 crore",
+      "playing_status": "playing",
+      "role": "Batsman"
+    },
+    {
+      "player_name": "Riyan Parag",
+      "photo": "Riyan_Parag.png",
+      "team": "Rajasthan Royals",
+      "price": "3.8 crore",
+      "playing_status": "playing",
+      "role": "All-rounder"
+    },
+    {
+      "player_name": "KC Cariappa",
+      "photo": "KC_Cariappa.png",
+      "team": "Rajasthan Royals",
+      "price": "30 lakh",
+      "playing_status": "On-Bench",
+      "role": "Bowler"
+    },
+    {
+      "player_name": "Prasidh Krishna",
+      "photo": "Prasidh_Krishna.png",
+      "team": "Rajasthan Royals",
+      "price": "10 crore",
+      "playing_status": "playing",
+      "role": "Bowler"
+    },
+    {
+      "player_name": "Yuzvendra Chahal",
+      "photo": "Yuzvendra_Chahal.png",
+      "team": "Rajasthan Royals",
+      "price": "6.5 crore",
+      "playing_status": "playing",
+      "role": "Bowler"
+    },
+    {
+      "player_name": "Navdeep Saini",
+      "photo": "Navdeep_Saini.png",
+      "team": "Rajasthan Royals",
+      "price": "2.6 crore",
+      "playing_status": "playing",
+      "role": "Bowler"
+    },
+    {
+      "player_name": "Obed McCoy",
+      "photo": "Obed_McCoy.png",
+      "team": "Rajasthan Royals",
+      "price": "75 lakh",
+      "playing_status": "On-Bench",
+      "role": "Bowler"
+    },
+    {
+      "player_name": "Anunay Singh",
+      "photo": "Anunay_Singh.png",
+      "team": "Rajasthan Royals",
+      "price": "20 lakh",
+      "playing_status": "On-Bench",
+      "role": "All-rounder"
+    },
+    {
+      "player_name": "Kuldeep Sen",
+      "photo": "Kuldeep_Sen.png",
+      "team": "Rajasthan Royals",
+      "price": "20 lakh",
+      "playing_status": "On-Bench",
+      "role": "Bowler"
+    },
+    {
+      "player_name": "Karun Nair",
+      "photo": "Karun_Nair.png",
+      "team": "Rajasthan Royals",
+      "price": "1.4 crore",
+      "playing_status": "playing",
+      "role": "Batsman"
+    },
+    {
+      "player_name": "Dhruv Jurel",
+      "photo": "Dhruv_Jurel.png",
+      "team": "Rajasthan Royals",
+      "price": "20 lakh",
+      "playing_status": "On-Bench",
+      "role": "Batsman/Wicket-keeper"
+    },
+    {
+      "player_name": "Tejas Baroka",
+      "photo": "Tejas_Baroka.png",
+      "team": "Rajasthan Royals",
+      "price": "20 lakh",
+      "playing_status": "On-Bench",
+      "role": "Bowler"
+    },
+    {
+      "player_name": "Kuldip Yadav",
+      "photo": "Kuldip_Yadav.png",
+      "team": "Rajasthan Royals",
+      "price": "20 lakh",
+      "playing_status": "On-Bench",
+      "role": "Bowler"
+    },
+    {
+      "player_name": "Shubham Garhwal",
+      "photo": "Shubham_Garhwal.png",
+      "team": "Rajasthan Royals",
+      "price": "20 lakh",
+      "playing_status": "On-Bench",
+      "role": "All-rounder"
+    },
+    {
+      "player_name": "James Neesham",
+      "photo": "James_Neesham.png",
+      "team": "Rajasthan Royals",
+      "price": "1.5 crore",
+      "playing_status": "playing",
+      "role": "All-rounder"
+    },
+    {
+      "player_name": "Nathan Coulter-Nile",
+      "photo": "Nathan_Coulter_Nile.png",
+      "team": "Rajasthan Royals",
+      "price": "2 crore",
+      "playing_status": "playing",
+      "role": "Bowler"
+    },
+    {
+      "player_name": "Rassie van der Dussen",
+      "photo": "Rassie_Van_Der_Dussen.png",
+      "team": "Rajasthan Royals",
+      "price": "1 crore",
+      "playing_status": "On-Bench",
+      "role": "Batsman"
+    },
+    {
+      "player_name": "Daryl Mitchell",
+      "photo": "Daryl_Mitchell.png",
+      "team": "Rajasthan Royals",
+      "price": "75 lakh",
+      "playing_status": "On-Bench",
+      "role": "Batsman"
+    }
+  ]
+}
